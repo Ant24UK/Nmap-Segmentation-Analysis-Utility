@@ -18,4 +18,5 @@ This tool analyses multiple Nmap `.gnmap` files (from different network segments
 
 2. **Run the script**  
    ```bash
-   python3 scriptname.py
+   python3 nmapMatrix.py
+
